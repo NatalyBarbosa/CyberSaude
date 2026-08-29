@@ -2,7 +2,7 @@
 
 O CyberSaúde é um projeto de extensão universitária desenvolvido pelo capítulo IEEE SMCS da Universidade Federal do Recôncavo da Bahia (UFRB). O projeto visa mitigar a lacuna de acesso a tecnologias de saúde preventiva em comunidades quilombolas, em Cruz das Almas (BA), utilizando a computação física como ferramenta de transformação social e equidade regional.
 
-Este repositório documenta a implementação de protótipos de monitoramento de sinais vitais de baixo cust.
+Este repositório documenta a implementação de protótipos de monitoramento de sinais vitais de baixo custo.
 
 ## 🩺 Protótipos Desenvolvidos
 Os dispositivos foram projetados priorizando a portabilidade, autonomia energética e o uso de hardware de código aberto:
