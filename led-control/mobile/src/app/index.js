@@ -25,7 +25,7 @@ export default function HomeScreen() {
     // PEGAR IP LA NO ARDUIDO IDE
     try {
       const resposta = await fetch(
-        `http://192.168.0.105/${led}/${acao}`
+        `http://IP DO WIFI/${led}/${acao}`
       );
 
       if (!resposta.ok) {
